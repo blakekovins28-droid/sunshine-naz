@@ -943,10 +943,10 @@ footer p {
     }
 }
 .profile-picture {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 0;
     display: block;
     margin: 20px 0;
 }
