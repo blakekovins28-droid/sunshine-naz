@@ -101,10 +101,11 @@ nav a:hover {
     width: 120px;
     height: 120px;
     object-fit: cover;
-    object-position: center 25%;
+    object-position: center top;
     border-radius: 8px;
     display: block;
     margin-bottom: 25px;
+}
 
 .hero-name {
     font-size: 20px;
