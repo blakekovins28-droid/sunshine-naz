@@ -950,3 +950,19 @@ footer p {
     display: block;
     margin: 20px 0;
 }
+.hero {
+    display: grid;
+    grid-template-columns: 1fr 0.75fr;
+    gap: 40px;
+    align-items: start;
+}
+
+.quick-info {
+    grid-column: auto;
+    grid-row: 1;
+}
+
+.hero-content {
+    grid-column: 1;
+    grid-row: 1;
+}
